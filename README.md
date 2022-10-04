@@ -3,7 +3,7 @@
 
 
 # Paimons Guide - By TheShute For V3.1
-![](https://geps.dev/progress/1)
+Program Progress! - ![](https://geps.dev/progress/1)
 
 A Paimonial Guide for Genshin Impact Where everything you need to know is right here
 in one place without the need for 50 google chrome ram munching tabs.
